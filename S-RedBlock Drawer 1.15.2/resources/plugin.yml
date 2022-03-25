@@ -1,0 +1,8 @@
+name: Drawer
+main: fr.gamalta.redblock.drawer.Drawer
+version: 1.0
+author: Gamalta
+api-version: 1.15
+depend: [RedCore, CustomItems]
+commands:
+  Furnace:

@@ -1,0 +1,32 @@
+Drawer:
+  CustomItemId: "drawer"
+  Facing:
+    NORTH:
+      Up: false
+      Down: false
+      North: false
+      South: false
+      East: false
+      West: false
+    SOUTH:
+      Up: true
+      Down: false
+      North: false
+      South: false
+      East: false
+      West: false
+    WEST:
+      Up: true
+      Down: false
+      North: false
+      South: true
+      East: false
+      West: false
+    EAST:
+      Up: true
+      Down: false
+      North: false
+      South: false
+      East: false
+      West: true
+  
